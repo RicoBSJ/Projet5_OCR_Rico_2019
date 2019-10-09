@@ -58,6 +58,7 @@ Déroulement de la soutenance
 Il vous est demandé de vous mettre en situation réelle : en effet, il s'agit d'une réunion professionnelle. Vous vous adresserez à un développeur expérimentéde votre entreprise pour valider votre travail le cadre de ce projet.
 
 La soutenance, d’une durée maximum de 30 minutes, se déroulera en deux parties :
+
 •	Partie 1 – 15-20 minutes : Simulation d'une réunion professionnelle
 L'évaluateur jouera le rôle du développeur expérimenté
 o	[~ 10 minutes] Vous présenterez votre solution technique
@@ -67,6 +68,7 @@ o	L'évaluateur pourra vous demander d’approfondir certains aspects ou vous qu
 o	L'évaluateur vous fera un debrief sur votre prestation en soutenance
  
 Compétences évaluées
+
 •  Concevoir l’architecture technique d’une application à l’aide de diagrammes UML
 •  Décrire un domaine fonctionnel avec UML
 •  Implémenter le schéma de données dans la base
