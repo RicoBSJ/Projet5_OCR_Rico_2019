@@ -63,6 +63,7 @@ La soutenance, d’une durée maximum de 30 minutes, se déroulera en deux parti
 L'évaluateur jouera le rôle du développeur expérimenté
 o	[~ 10 minutes] Vous présenterez votre solution technique
 o	[~ 10 minutes] Vous échangerez sur votre travail et vos choix techniques
+
 •	Partie 2 – 5-10 minutes : Retour sur la soutenance
 o	L'évaluateur pourra vous demander d’approfondir certains aspects ou vous questionner sur vos livrables
 o	L'évaluateur vous fera un debrief sur votre prestation en soutenance
@@ -70,6 +71,9 @@ o	L'évaluateur vous fera un debrief sur votre prestation en soutenance
 Compétences évaluées
 
 •  Concevoir l’architecture technique d’une application à l’aide de diagrammes UML
+
 •  Décrire un domaine fonctionnel avec UML
+
 •  Implémenter le schéma de données dans la base
+
 •  Réaliser un schéma de conception de la base de données de l’application
