@@ -42,13 +42,18 @@ Si vous avez déjà validé le projet  Analysez les besoins de votre client pour
 Livrables attendus
 
 •	Un document (format PDF) de spécifications techniques comprenant :
+
 o	une description du domaine fonctionnel
 o	les différents composants du système et les composants externes utilisés par celui-ci et leur interaction
 o	la description de l’organisation physique de ces composants (déploiement)
+
 •	Le modèle physique de données (MPD) ou modèle relationnel de la base de données au format PDF ou image (PNG)
+
 •	Base de données MySQL ou PostgreSQL avec un jeu de données de démo :
+
 o	un fichier ZIP contenant un dump de votre base de données
 o	un fichier ZIP contenant l’ensemble des scripts SQL de création de la base de données et du jeu de données de démo
+
 Soutenance
 
 Avant la soutenance
